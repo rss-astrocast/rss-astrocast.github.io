@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Astrocast - O Seu PodCast Astrológico</title>
+  <link>https://rss-astrocast.github.io</link>
+  <description>Sua dose semanal de astrologia</description>
+  
+  <item>
+    <title>Titulo episodeo 1</title>
+    <link>link episodeo 1</link>
+    <description>Descrição episodio 1</description>
+  </item>
+  
+  <item>
+    <title>Titulo episodeo 2</title>
+    <link>link episodeo 2</link>
+    <description>Descrição episodio 2</description>
+  </item>
+  
+</channel>
+
+</rss>
